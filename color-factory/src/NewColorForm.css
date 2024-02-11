@@ -1,0 +1,37 @@
+.AddColor {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .AddColor form {
+    width: 50%;
+    background-color: white;
+    padding: 50px;
+    border-radius: 12px;
+  }
+  
+  .AddColor form div {
+    padding: 15px;
+  }
+
+  .return a {
+    text-decoration: none;
+  }
+
+  input {
+    border-radius: 5px;
+    margin: 0px 5px;
+  }
+
+  .submit {
+    border: none;
+    margin-left: 15px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+  }

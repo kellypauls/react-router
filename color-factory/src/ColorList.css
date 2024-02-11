@@ -1,0 +1,17 @@
+.list {
+    text-align: center;
+}
+
+.list-h1 {
+    height: 3em;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: black;
+}
